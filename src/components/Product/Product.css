@@ -1,0 +1,42 @@
+.product img {
+    width: 286px;
+    height: 286px;
+    padding: 7px;
+    border-radius: 15px;
+}
+
+.product {
+    width: 300px;
+    height: 520px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 10px;
+    position: relative;
+}
+
+.products-data {
+    text-align: left;
+    padding: 0 15px;
+}
+.products-data p{
+    margin: 0px;
+}
+
+.product-name {
+    margin: 0px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.product-price {
+    padding: 15px 0px;
+    font-weight: 600;
+}
+
+.atc-button {
+    width: 100%;
+    background-color: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    bottom: 0;
+}
